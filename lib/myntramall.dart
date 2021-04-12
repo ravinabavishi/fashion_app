@@ -9,7 +9,8 @@ class MyntraMall extends StatefulWidget {
 }
 class _MyntraMallState extends State<MyntraMall> {
   int _current = 0;
-  final List<Images> imageList = [x`
+  final List<Images> imageList = [
+
   Images("assets/images/style1.jpg"),
     Images("assets/images/style2.jpg"),
     Images("assets/images/style3.jpg"),
